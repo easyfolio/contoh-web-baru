@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "adajkef",
+    "first_name": "khbww",
+    "last_name": "hbjgw",
+    "logo_text": "khgwe",
+    "title": "hgywd",
+    "bio": "kjjhwifeyhsdbfjsvhuysgdwydguyygsdfbsddcgsfjhssdfiui",
+    "profile_picture": "https://drive.google.com/uc?id=191NtnXUDDf-ewPxUf82piMyR0llKUCTx"
+  },
+  "sections_titles": {
+    "about": "About Me",
+    "experience_education": "Experience & Education",
+    "skills": "My Skills",
+    "projects": "My Projects",
+    "contact": "Contact Me",
+    "experience_tab": "Experience",
+    "education_tab": "Education",
+    "contact_call_to_action_title": "ada udang dibalik batu"
+  },
+  "general_text": {
+    "greeting": "Welcome to my space, I'm",
+    "email_label": "Email Address",
+    "phone_label": "Phone Number",
+    "location_label": "Location",
+    "connect_label": "Connect With Me",
+    "download_resume": "Download Resume",
+    "copyright_text": "All Rights Reserved.",
+    "my_projects_button": "My Projects",
+    "lets_connect_button": "Let's Connect",
+    "contact_call_to_action_paragraph": "Feel free to reach out if you're looking for a data expert, have a project in mind, or just want to connect."
+  },
+  "about": {
+    "about_image": "https://drive.google.com/uc?id=191NtnXUDDf-ewPxUf82piMyR0llKUCTx",
+    "description_p1": "kjsnd",
+    "description_p2": "kjjwefiuhwd"
+  },
+  "experience": [
+    {
+      "position": "nnjwe",
+      "company": "kjnwjhuwde",
+      "years": "kjefuiwe",
+      "description": "kjbwiydgwd"
+    },
+    {
+      "position": "",
+      "company": "",
+      "years": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "wdw",
+      "institution": "fwedde",
+      "years": "wdwdw",
+      "description": ""
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "years": "",
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "edw22",
+      "level": 40,
+      "description": "ad"
+    },
+    {
+      "name": "asd",
+      "level": 10,
+      "description": "kjhefu"
+    },
+    {
+      "name": "mjnsdfi",
+      "level": 10,
+      "description": "mnbef"
+    },
+    {
+      "name": "kjkwef",
+      "level": 90,
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "jkwqd",
+      "description": "kkhe",
+      "link": "https://drive.google.com/file/d/191NtnXUDDf-ewPxUf82piMyR0llKUCTx/view?usp=sharing",
+      "image": "https://drive.google.com/uc?id=191NtnXUDDf-ewPxUf82piMyR0llKUCTx"
+    }
+  ],
+  "contact": {
+    "email": "a@gmail.com",
+    "phone": "-",
+    "location": "surabaya"
+  },
+  "social_links": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://drive.google.com/file/d/191NtnXUDDf-ewPxUf82piMyR0llKUCTx/view?usp=sharing",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "",
+      "icon": "fab fa-twitter-square"
+    },
+    {
+      "platform": "Instagram",
+      "url": "",
+      "icon": "fab fa-instagram-square"
+    }
+  ],
+  "about_details_sections": [
+    {
+      "title": "Interests",
+      "items": [
+        "a",
+        "kkjsd",
+        "hjhgw76dwe",
+        "gsytdfW7D",
+        "JHBGSIDUTF7dg. BNS DCHVSC"
+      ]
+    },
+    {
+      "title": "Languages",
+      "items": [
+        "BSUYGWD",
+        "JHVSDTYGWE",
+        "JJHSBVDUYCGS"
+      ]
+    },
+    {
+      "title": "Hobbies",
+      "items": [
+        "HJBSDUYCGS",
+        "JHBSCUYGS",
+        "HBSUCYG"
+      ]
+    }
+  ]
+}
