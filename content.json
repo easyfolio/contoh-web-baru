@@ -1,0 +1,141 @@
+{
+  "profile": {
+    "name": "Aulia Rahma Fadhila ",
+    "first_name": "Aulia Rahma ",
+    "last_name": "Fadhila ",
+    "logo_text": "Aurafa.mdf",
+    "title": "A Certificate Language Arabic",
+    "bio": "Dedicated Arabic language lecturer committed to empowering students with comprehensive linguistic skills and cultural insights.",
+    "profile_picture": "https://res.cloudinary.com/dxsj8mskr/image/upload/v1753512841/qumh4qkwgctn6is5jvkj.png"
+  },
+  "sections_titles": {
+    "about": "About Me",
+    "experience_education": "Experience & Education",
+    "skills": "My Skills",
+    "projects": "My Projects",
+    "contact": "Contact Me",
+    "experience_tab": "Experience",
+    "education_tab": "Education",
+    "contact_call_to_action_title": "مَنْ أَشْرَقَتْ بِدَايَتُهُ أَشْرَقَتْ نِهَايَتُهُ Dia yang memiliki awal yang cemerlang, juga akan memiliki akhir yang cemerlang"
+  },
+  "general_text": {
+    "greeting": "Welcome to my space, I'm",
+    "email_label": "Email Address",
+    "phone_label": "Phone Number",
+    "location_label": "Location",
+    "connect_label": "Connect With Me",
+    "download_resume": "Download Resume",
+    "copyright_text": "All Rights Reserved.",
+    "my_projects_button": "My Projects",
+    "lets_connect_button": "Let's Connect",
+    "contact_call_to_action_paragraph": "Feel free to reach out if you're looking for a data expert, have a project in mind, or just want to connect."
+  },
+  "about": {
+    "about_image": "https://res.cloudinary.com/dxsj8mskr/image/upload/v1753512843/n06vpzof9sesc3kgkrdi.webp",
+    "description_p1": "As a dedicated Lecturer of Arabic Language, I'm passionate about guiding students through the intricacies and beauty of this rich and ancient tongue. My goal is to not only impart comprehensive linguistic skills, from grammar and vocabulary to speaking and listening, but also to ignite a deeper appreciation for the profound cultural heritage embedded within the Arabic language. I believe in creating an engaging and supportive learning environment where students feel empowered to explore, practice, and ultimately master their Arabic communication abilities.",
+    "description_p2": "My teaching approach emphasizes practical application and real-world relevance, ensuring students can confidently use Arabic in various contexts. I integrate diverse resources, including authentic texts, multimedia, and interactive exercises, to make learning dynamic and effective. Beyond the classroom, I strive to foster a deeper cross-cultural understanding, equipping students with the tools to connect with the Arabic-speaking world and its vibrant traditions. It's incredibly rewarding to witness my students' progress as they unlock new opportunities through their growing proficiency in Arabic.\n\n"
+  },
+  "experience": [
+    {
+      "position": "Teacher in Markaz Arabiyah",
+      "company": "Markaz Arabiyah",
+      "years": "July 2022 - Sept 2022",
+      "description": "At Markaz Arabiyah, I implement innovative and student-centered teaching methods to ensure effective and enjoyable Arabic language learning. I believe that deep understanding comes not only from theory but also from practice and authentic cultural exposure. My goal is to empower students with strong language abilities while fostering an appreciation for the rich Arabic cultural heritage, opening doors to global understanding and human connection."
+    },
+    {
+      "position": "",
+      "company": "",
+      "years": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "S. Pd.",
+      "institution": "Universitas Islam Negeri Walisongo Semarang ",
+      "years": "2021-2025",
+      "description": ""
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "years": "",
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Empathetic Pedagogical Design ",
+      "level": 0.8,
+      "description": "My approach to education is deeply rooted in Empathetic Pedagogical Design. This means I don't just teach content; I craft learning experiences that are finely tuned to the unique challenges and aspirations of each student. My identity as an educator is defined by a genuine commitment to understanding individual learning styles, addressing specific difficulties with patience, and celebrating every small victory. This skill allows me to design curricula and lessons that aren't just effective, but truly resonate with learners, making the journey of acquiring a new language feel both supportive and immensely rewarding."
+    },
+    {
+      "name": "Curatorial Storytelling",
+      "level": 0.75,
+      "description": "I excel in Curatorial Storytelling, an innate ability to weave narratives that bring complex subjects to life and make them relatable. For me, teaching a language isn't just about grammar rules; it's about unfolding the rich tapestry of its history, people, and traditions through compelling anecdotes and carefully selected examples. This skill reflects my identity as a guide who illuminates pathways to deeper understanding, making learning an immersive journey rather than a mere acquisition of facts. I believe that a well-told story is often the most powerful tool for cultural appreciation and linguistic retention."
+    },
+    {
+      "name": "Adaptable Resourcefulness",
+      "level": 0.8,
+      "description": "At my core, I embody Adaptable Resourcefulness. This isn't simply problem-solving; it's a proactive and creative drive to innovate and find the best solutions, especially when faced with unexpected challenges or diverse learner needs. My identity thrives on turning limitations into opportunities, constantly seeking out and developing innovative tools and methods to enhance engagement and comprehension. This skill ensures that I can consistently deliver dynamic and effective learning experiences, no matter the context, and empowers me to grow alongside my students in an ever-evolving educational landscape."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Novel",
+      "description": "Novel yang menceritakan lika-liku bertemunya kekasih",
+      "link": "https://drive.google.com/file/d/17PxFqNJIWMbEJUvg91kzJZc40PpPxgEc/view?usp=drivesdk",
+      "image": "https://res.cloudinary.com/dxsj8mskr/image/upload/v1753512845/wh7knzxah0zu6ih30z4t.webp"
+    }
+  ],
+  "contact": {
+    "email": "fadhilaaulia2304@gmail.com",
+    "phone": "081213500936",
+    "location": "Jl Bukit Panembahan Senopati no 16 Ngaliyan Semarang "
+  },
+  "social_links": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aulia-rahma-fadhila?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "",
+      "icon": "fab fa-twitter-square"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/aurafa_mdf?igsh=MW8ydmN6cDg3YTFnbg",
+      "icon": "fab fa-instagram-square"
+    }
+  ],
+  "about_details_sections": [
+    {
+      "title": "Interests",
+      "items": [
+        "Teacher",
+        "Tentor",
+        "Lecturer"
+      ]
+    },
+    {
+      "title": "Languages",
+      "items": [
+        "Indonesia Language",
+        "Arabic Language",
+        "English Language"
+      ]
+    },
+    {
+      "title": "Hobbies",
+      "items": [
+        "Reading",
+        "Writing",
+        "Drawing",
+        "Design Art"
+      ]
+    }
+  ]
+}
